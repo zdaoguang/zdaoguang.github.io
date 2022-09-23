@@ -46,7 +46,6 @@ My research interest includes event extraction and dialogue systems. I have publ
 # 🎖 Honors and Awards
 - *2021.11* Meituan 2021 Academic Innovation Outstanding Contribution Award
 - *2020.12* Meituan Platform 2020 Annual Awards
-<img src='../images/扫描文档.pdf' style='width: 6em;'>
 - *2018.07* SEKE 2018 Best Paper Award (1/135)
 
 # 📖 Educations
