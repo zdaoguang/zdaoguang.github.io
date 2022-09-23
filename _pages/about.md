@@ -27,27 +27,16 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
+## Event Extraction
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [A Low-Cost, Controllable and Interpretable Task-Oriented Chatbot: With Real-World After-Sale Services as Example](https://dl.acm.org/doi/abs/10.1145/3477495.3536331), **Xiangyu Xi**, Chenxu Lv, Yuncheng Hua, Wei Ye*, Chaobo Sun, Shuaipeng Liu, Fan Yang, Guanglu Wan, **SIGIR 2022 Industry Paper**
 
 # 🎖 Honors and Awards
 - *2018.07* SEKE 2018 Best Paper Award (1/135)
 
 # 📖 Educations
-- *2014.08 - 2020.07 *, Phd, National Engineering Research Center for Software Engineering, Peking UNiversity. 
-- *2010.08 - 2014.07 *, Undergraduate, Department of Automation, Tsinghua UNiversity. 
+- *2014.08 - 2020.07*, PhD, National Engineering Research Center for Software Engineering, Peking UNiversity. 
+- *2010.08 - 2014.07*, Undergraduate, Department of Automation, Tsinghua UNiversity. 
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
