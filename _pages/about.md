@@ -32,6 +32,9 @@ My research interest includes neural machine translation and computer vision. I 
 - [A Low-Cost, Controllable and Interpretable Task-Oriented Chatbot: With Real-World After-Sale Services as Example](https://dl.acm.org/doi/abs/10.1145/3477495.3536331), **Xiangyu Xi**, Chenxu Lv, Yuncheng Hua, Wei Ye*, Chaobo Sun, Shuaipeng Liu, Fan Yang, Guanglu Wan, **SIGIR 2022 Industry Paper**
 - [Capturing Event Argument Interaction via A Bi-Directional Entity-Level Recurrent Decoder](https://aclanthology.org/2021.acl-long.18/), **Xiangyu Xi**, Wei Ye, Shikun Zhang, Quanxiu Wang, Huixing Jiang and Wei Wu, **ACL 2021 Long Oral**
 - [Improve Event Detection by Exploiting Label Hierarchy](https://ieeexplore.ieee.org/document/9415002), **Xiangyu Xi**, Wei Ye, Tong Zhang, Quanxiu Wang, Shikun Zhang, Huixing Jiang, Wei Wu, **ICASSP 2021 Full**
+- [Label Smoothing for Text Mining](https://ieeexplore.ieee.org/document/9415002), 	Peiyang Liu, **Xiangyu Xi^** (Contributed Equally), Wei Ye, Shikun Zhang, **Coling 2022 Full**
+- [Leveraging Human Prior Knowledge to Learn Sense Representations](https://ecai2020.eu/papers/603_paper.pdf), Tong Zhang, Wei Ye*, **Xiangyu Xi**, Long Zhang, Shikun Zhang, Wen Zhao, **ECAI 2020 Full**
+- [Graph Enhanced Dual Attention Network for Document-Level Relation Extraction](https://aclanthology.org/2020.coling-main.136/), Bo Li, Wei Ye, Zhonghao Sheng, Rui Xie, **Xiangyu Xi** and Shikun Zhang, **Coling 2020 Full**
 
 # 🎖 Honors and Awards
 - *2018.07* SEKE 2018 Best Paper Award (1/135)
