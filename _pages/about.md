@@ -53,4 +53,4 @@ My research interest includes event extraction and dialogue systems. I have publ
 - *2010.08 - 2014.07*, Undergraduate, Department of Automation, Tsinghua UNiversity. 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2019.08*, [Ant Group, Alibaba](https://www.antgroup.com/en), China.
