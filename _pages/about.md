@@ -27,7 +27,6 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
-## Event Extraction
 
 - [A Low-Cost, Controllable and Interpretable Task-Oriented Chatbot: With Real-World After-Sale Services as Example](https://dl.acm.org/doi/abs/10.1145/3477495.3536331), **Xiangyu Xi**, Chenxu Lv, Yuncheng Hua, Wei Ye*, Chaobo Sun, Shuaipeng Liu, Fan Yang, Guanglu Wan, **SIGIR 2022 Industry Paper**
 - [Label Smoothing for Text Mining](https://ieeexplore.ieee.org/document/9415002), 	Peiyang Liu, **Xiangyu Xi^** (Contributed Equally), Wei Ye, Shikun Zhang, **Coling 2022 Full Paper**
@@ -40,6 +39,9 @@ My research interest includes neural machine translation and computer vision. I 
 - [Graph Enhanced Dual Attention Network for Document-Level Relation Extraction](https://aclanthology.org/2020.coling-main.136/), Bo Li, Wei Ye, Zhonghao Sheng, Rui Xie, **Xiangyu Xi** and Shikun Zhang, **Coling 2020 Full Paper**
 - [A Hybrid Character Representation for Chinese Event Detection](https://ieeexplore.ieee.org/document/8851786), **Xiangyu Xi**, Tong Zhang, Wei Ye*, Jinglei Zhang, Rui Xie and Shikun Zhang, **IJCNN 2019 Full Paper**
 - [Not All Synonyms Are Created Equal: Incorporating Similarity of Synonyms to Enhance Word Embeddings](https://ieeexplore.ieee.org/document/9207311), 	Peiyang Liu, Wei Ye, **Xiangyu Xi**, Tong Wang and Shikun Zhang, **IJCNN 2019 Full Paper**
+- [Method and System for Detecting Anomalous User Behaviors: An Ensemble Approach]([https://ksiresearch.org/seke/seke18paper/seke18paper_36.pdf](https://www.worldscientific.com/doi/10.1142/S0218194018400211)), 	**Xiangyu Xi**, Tong Zhang, Wei Ye, Zhao Wen, Shikun Zhang, Dongdong Du and Qing Gao, **SEKE 2018 Full Paper**
+- [An Ensemble Approach for Detecting Anomalous User Behaviors
+]([https://ieeexplore.ieee.org/document/9207311](https://www.worldscientific.com/doi/10.1142/S0218194018400211)), 	**Xiangyu Xi**, Tong Zhang, Wei Ye, Zhao Wen, Shikun Zhang, Dongdong Du and Qing Gao, **IJSEKE Vol. 28, No. 11n12**
 
 # 🎖 Honors and Awards
 - *2018.07* SEKE 2018 Best Paper Award (1/135)
