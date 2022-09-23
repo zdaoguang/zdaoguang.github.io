@@ -44,6 +44,8 @@ My research interest includes event extraction and dialogue systems. I have publ
 ](https://www.worldscientific.com/doi/10.1142/S0218194018400211), 	**Xiangyu Xi**, Tong Zhang, Wei Ye, Zhao Wen, Shikun Zhang, Dongdong Du and Qing Gao, **IJSEKE Vol. 28, No. 11n12**
 
 # 🎖 Honors and Awards
+- *2021.11* Meituan 2021 Academic Innovation Outstanding Contribution Award
+- *2020.12* Meituan Platform 2020 Annual Awards
 - *2018.07* SEKE 2018 Best Paper Award (1/135)
 
 # 📖 Educations
