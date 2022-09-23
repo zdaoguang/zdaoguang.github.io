@@ -30,6 +30,8 @@ My research interest includes neural machine translation and computer vision. I 
 ## Event Extraction
 
 - [A Low-Cost, Controllable and Interpretable Task-Oriented Chatbot: With Real-World After-Sale Services as Example](https://dl.acm.org/doi/abs/10.1145/3477495.3536331), **Xiangyu Xi**, Chenxu Lv, Yuncheng Hua, Wei Ye*, Chaobo Sun, Shuaipeng Liu, Fan Yang, Guanglu Wan, **SIGIR 2022 Industry Paper**
+- [Capturing Event Argument Interaction via A Bi-Directional Entity-Level Recurrent Decoder](https://aclanthology.org/2021.acl-long.18/), **Xiangyu Xi**, Wei Ye, Shikun Zhang, Quanxiu Wang, Huixing Jiang and Wei Wu, **ACL 2021 Long Oral**
+- [Improve Event Detection by Exploiting Label Hierarchy](https://ieeexplore.ieee.org/document/9415002), **Xiangyu Xi**, Wei Ye, Tong Zhang, Quanxiu Wang, Shikun Zhang, Huixing Jiang, Wei Wu, **ICASSP 2021 Full**
 
 # 🎖 Honors and Awards
 - *2018.07* SEKE 2018 Best Paper Award (1/135)
