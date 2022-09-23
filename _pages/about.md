@@ -39,7 +39,7 @@ My research interest includes event extraction and dialogue systems. I have publ
 - [Graph Enhanced Dual Attention Network for Document-Level Relation Extraction](https://aclanthology.org/2020.coling-main.136/), Bo Li, Wei Ye, Zhonghao Sheng, Rui Xie, **Xiangyu Xi** and Shikun Zhang, **Coling 2020 Full Paper**
 - [A Hybrid Character Representation for Chinese Event Detection](https://ieeexplore.ieee.org/document/8851786), **Xiangyu Xi**, Tong Zhang, Wei Ye, Jinglei Zhang, Rui Xie and Shikun Zhang, **IJCNN 2019 Full Paper**
 - [Not All Synonyms Are Created Equal: Incorporating Similarity of Synonyms to Enhance Word Embeddings](https://ieeexplore.ieee.org/document/9207311), 	Peiyang Liu, Wei Ye, **Xiangyu Xi**, Tong Wang and Shikun Zhang, **IJCNN 2019 Full Paper**
-- [Method and System for Detecting Anomalous User Behaviors: An Ensemble Approach](https://ksiresearch.org/seke/seke18paper/seke18paper_36.pdf), 	**Xiangyu Xi**, Tong Zhang, Wei Ye, Zhao Wen, Shikun Zhang, Dongdong Du and Qing Gao, **SEKE 2018 Full Paper**
+- [Method and System for Detecting Anomalous User Behaviors: An Ensemble Approach](https://ksiresearch.org/seke/seke18paper/seke18paper_36.pdf), 	**Xiangyu Xi**, Tong Zhang, Wei Ye, Zhao Wen, Shikun Zhang, Dongdong Du and Qing Gao, **SEKE 2018 Full Paper, <font color='red'>Best Paper Award</font>**
 - [An Ensemble Approach for Detecting Anomalous User Behaviors
 ](https://www.worldscientific.com/doi/10.1142/S0218194018400211), 	**Xiangyu Xi**, Tong Zhang, Wei Ye, Zhao Wen, Shikun Zhang, Dongdong Du and Qing Gao, **IJSEKE Vol. 28, No. 11n12**
 
