@@ -23,6 +23,7 @@ My research interest includes event extraction and dialogue systems. I have publ
 
 # 🔥 News
 - *2022.08*: &nbsp;🎉🎉 Two papers are accepted by Coling 2022! 
+- *2022.05*: &nbsp;🎉🎉 One papers are accepted by SIGIR 2022! 
 
 
 # 📝 Publications 
