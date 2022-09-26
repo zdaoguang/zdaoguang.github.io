@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graduated from [Department of Automation](https://www.au.tsinghua.edu.cn/), Tsinghua University with a bachelor's degree, and from the [Knowledge Computing Lab](https://se.pku.edu.cn/kcl/), Peking University with a Phd's degree, advised by [Ye Wei (叶蔚)](https://se.pku.edu.cn/kcl/weiye/). Now, I  am working at Meituan Group and focusing on task-oriented dialogue systems.
+I graduated from [Department of Automation](https://www.au.tsinghua.edu.cn/), Tsinghua University with a bachelor's degree, and from the [Knowledge Computing Lab](https://se.pku.edu.cn/kcl/), Peking University with a Phd's degree, advised by Prof.[Ye Wei (叶蔚)](https://se.pku.edu.cn/kcl/weiye/). Now, I  am working at Meituan Group and focusing on task-oriented dialogue systems.
 
 My research interest includes event extraction and dialogue systems. I have published more than 20 papers at the top international AI conferences including ACL, SIGIR, EMNLP, NAACL, CIKM, etc.
 
 # 🔥 News
 - *2022.08*: &nbsp;🎉🎉 Two papers are accepted by Coling 2022! 
-- *2022.05*: &nbsp;🎉🎉 One papers are accepted by SIGIR 2022! 
+- *2022.05*: &nbsp;🎉🎉 One paper is accepted by SIGIR 2022! 
 
 
 # 📝 Publications 
@@ -58,6 +58,10 @@ Peiyang Liu, Wei Ye, **Xiangyu Xi**, Tong Wang and Shikun Zhang, **IJCNN 2019 Fu
 Yichen Zheng, **Xiangyu Xi**, Yifan Zhuang, and Yi Zhang, **Tsinghua Science and Technology**
 1. [Null Pointer Dereference Detection Based on Value Dependences Analysis](https://www.ejournal.org.cn/CN/abstract/abstract8921.shtml)  
 MA Sen, ZHAO Wen, **XI Xiang-yu**, WANG Dong-wei, **Acta Electronica Sinica, 2015**
+1. [Monitoring and autonomous control of Beijing Subway HVAC system for energy sustainability](https://pendidikankimia.walisongo.ac.id/wp-content/uploads/2018/09/1-vol-39-august-2017.pdf)  
+Yongcai Wang, Haoran Feng, **Xiangyu Xi**, **Energy for sustainable development, 2017**
+1. [Sense, model and identify the load signatures of HVAC systems in metro stations](https://ieeexplore.ieee.org/abstract/document/6939314/)  
+Yongcai Wang, Haoran Feng, **Xiangyu Xi**, **2014 IEEE PES General Meeting| Conference & Exposition**
 
 # 🎖 Honors and Awards
 - *2021.11* Meituan 2021 Academic Innovation Outstanding Contribution Award
