@@ -79,5 +79,5 @@ Yongcai Wang, Haoran Feng, **Xiangyu Xi**, **2014 IEEE PES General Meeting| Conf
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <span id="busuanzi_container_site_uv">
-  <center>This Page Has Been Visited <span id="busuanzi_value_site_uv"></span> Times.</center>
+  This Page Has Been Visited <span id="busuanzi_value_site_uv"></span> Times.
 </span>
