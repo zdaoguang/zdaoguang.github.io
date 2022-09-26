@@ -31,7 +31,7 @@ My research interest includes event extraction and dialogue systems. I have publ
 1. [A Low-Cost, Controllable and Interpretable Task-Oriented Chatbot: With Real-World After-Sale Services as Example](https://dl.acm.org/doi/abs/10.1145/3477495.3536331)  
  **Xiangyu Xi**, Chenxu Lv, Yuncheng Hua, Wei Ye, Chaobo Sun, Shuaipeng Liu, Fan Yang, Guanglu Wan, **SIGIR 2022 Industry Paper**
 1. [Label Smoothing for Text Mining](https://ieeexplore.ieee.org/document/9415002)  
-Peiyang Liu, **Xiangyu Xi^** (Contributed Equally), Wei Ye, Shikun Zhang, **Coling 2022 Full Paper**
+Peiyang Liu^, **Xiangyu Xi^** (equal contribution), Wei Ye, Shikun Zhang, **Coling 2022 Full Paper**
 1. [DESED: Dialogue-based Explanation for Sentence-level Event Detection](https://ieeexplore.ieee.org/document/9415002)  
 Yinyi Wei, Shuaipeng Liu, Jianwei Lv, **Xi Xiangyu**, Wei Ye, Tong Mo, Fan Yang and Guanglu Wan, **Coling 2022 Full Paper**
 1. [Capturing Event Argument Interaction via A Bi-Directional Entity-Level Recurrent Decoder](https://aclanthology.org/2021.acl-long.18/)
