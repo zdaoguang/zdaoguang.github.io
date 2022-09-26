@@ -56,6 +56,8 @@ Peiyang Liu, Wei Ye, **Xiangyu Xi**, Tong Wang and Shikun Zhang, **IJCNN 2019 Fu
 **Xiangyu Xi**, Tong Zhang, Wei Ye, Zhao Wen, Shikun Zhang, Dongdong Du and Qing Gao, **IJSEKE Vol. 28, No. 11n12**
 1. [Dynamic parameters cellular automaton model for passengers in subway](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7349931)  
 Yichen Zheng, **Xiangyu Xi**, Yifan Zhuang, and Yi Zhang, **Tsinghua Science and Technology**
+1. [Null Pointer Dereference Detection Based on Value Dependences Analysis](https://www.ejournal.org.cn/CN/abstract/abstract8921.shtml)  
+MA Sen, ZHAO Wen, **XI Xiang-yu**, WANG Dong-wei, **Acta Electronica Sinica, 2015**
 
 # 🎖 Honors and Awards
 - *2021.11* Meituan 2021 Academic Innovation Outstanding Contribution Award
