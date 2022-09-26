@@ -76,7 +76,7 @@ Yongcai Wang, Haoran Feng, **Xiangyu Xi**, **2014 IEEE PES General Meeting| Conf
 - *2019.05 - 2019.08*, [Ant Group, Alibaba](https://www.antgroup.com/en), China.
 
 
-<script src="https://cdn1.lncld.net/static/js/av-mini-0.6.10.js"></script>
-<script src="http://jerry-cdn.b0.upaiyun.com/hit-kounter/hit-kounter-lc-0.2.0.js"></script>
-<span data-hk-page="current"> - </span>
-
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<span id="busuanzi_container_site_uv">
+  本站访客数<span id="busuanzi_value_site_uv"></span>人次
+</span>
