@@ -33,7 +33,7 @@ My research interest includes event extraction and dialogue systems. I have publ
 Peiyang Liu^, **Xiangyu Xi^** (equal contribution), Wei Ye, Shikun Zhang, **Coling 2022 Full Paper**
 1. [DESED: Dialogue-based Explanation for Sentence-level Event Detection](https://ieeexplore.ieee.org/document/9415002)  
 Yinyi Wei, Shuaipeng Liu, Jianwei Lv, **Xi Xiangyu**, Wei Ye, Tong Mo, Fan Yang and Guanglu Wan, **Coling 2022 Full Paper**
-1. [Capturing Event Argument Interaction via A Bi-Directional Entity-Level Recurrent Decoder](https://aclanthology.org/2021.acl-long.18/)
+1. [Capturing Event Argument Interaction via A Bi-Directional Entity-Level Recurrent Decoder](https://aclanthology.org/2021.acl-long.18/)  
 **Xiangyu Xi**, Wei Ye, Shikun Zhang, Quanxiu Wang, Huixing Jiang and Wei Wu, **ACL 2021 Long Oral Paper**
 1. [Improve Event Detection by Exploiting Label Hierarchy](https://ieeexplore.ieee.org/document/9415002)  
 **Xiangyu Xi**, Wei Ye, Tong Zhang, Quanxiu Wang, Shikun Zhang, Huixing Jiang, Wei Wu, **ICASSP 2021 Full Paper**
