@@ -68,8 +68,8 @@ Yongcai Wang, Haoran Feng, **Xiangyu Xi**, **2014 IEEE PES General Meeting| Conf
 - *2018.07* SEKE 2018 Best Paper Award (1/135)
 
 # 📖 Educations
-- *2014.08 - 2020.07*, PhD, National Engineering Research Center for Software Engineering, Peking UNiversity. 
-- *2010.08 - 2014.07*, Undergraduate, Department of Automation, Tsinghua UNiversity. 
+- *2014.08 - 2020.07*, PhD, National Engineering Research Center for Software Engineering, Peking University. 
+- *2010.08 - 2014.07*, Undergraduate, Department of Automation, Tsinghua University. 
 
 # 💻 Internships
 - *2019.05 - 2019.08*, [Ant Group, Alibaba](https://www.antgroup.com/en), China.
