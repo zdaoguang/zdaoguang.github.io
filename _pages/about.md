@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am working on task-oriented dialogue systems in [Meituan](https://about.meituan.com/en), which is China’s leading shopping platform for locally found consumer products and retail services. Before that, I graduated from [Department of Automation](https://www.au.tsinghua.edu.cn/), Tsinghua University with a bachelor's degree, and from the [Knowledge Computing Lab](https://se.pku.edu.cn/kcl/), Peking University with a Phd's degree, advised by Prof.[Ye Wei (叶蔚)](https://se.pku.edu.cn/kcl/weiye/). 
-My research interest includes event extraction and dialogue systems. I have published more than 20 papers at the top international AI conferences including ACL, SIGIR, EMNLP, NAACL, CIKM, etc.
+My research interest includes event extraction and dialogue systems. I have published several papers at the top conferences including ACL, SIGIR, EMNLP, NAACL, CIKM, etc.
 
 # 🔥 News
 - *2022.08*: &nbsp;🎉🎉 Two papers are accepted by Coling 2022! 
