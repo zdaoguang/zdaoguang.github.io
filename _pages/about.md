@@ -21,12 +21,16 @@ I am working on task-oriented dialogue systems in [Meituan](https://about.meitua
 My research interest includes event extraction and dialogue systems. I have published several papers at the top conferences including ACL, SIGIR, EMNLP, NAACL, CIKM, etc.
 
 # 🔥 News
+- *2022.10*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2022! The dataset and baselines are to be released soon.
 - *2022.08*: &nbsp;🎉🎉 Two papers are accepted by Coling 2022! 
 - *2022.05*: &nbsp;🎉🎉 One paper is accepted by SIGIR 2022! 
 
 
 # 📝 Publications 
 
+1. MUSIED: A Benchmark for Event Detection from Multi-Source Heterogeneous Informal Texts  
+ **Xiangyu Xi**, Jianwei Lv, Shuaipeng Liu, Wei Ye, Fan Yang, Guanglu Wan  
+ *EMNLP 2022* | [paper](https://dl.acm.org/doi/abs/10.1145/3477495.3536331)  
 1. A Low-Cost, Controllable and Interpretable Task-Oriented Chatbot: With Real-World After-Sale Services as Example  
  **Xiangyu Xi**, Chenxu Lv, Yuncheng Hua, Wei Ye, Chaobo Sun, Shuaipeng Liu, Fan Yang, Guanglu Wan  
  *SIGIR 2022* | [paper](https://dl.acm.org/doi/abs/10.1145/3477495.3536331)  
