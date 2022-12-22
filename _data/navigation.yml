@@ -8,6 +8,9 @@ main:
 
   - title: "Publications"
     url: "/#-publications"
+    
+  - title: "Services"
+    url: "/#-services"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
@@ -17,3 +20,6 @@ main:
 
   - title: "Internships"
     url: "/#-internships"
+    
+  - title: "Contact Me"
+    url: "/#-contact-me"
