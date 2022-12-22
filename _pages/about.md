@@ -64,7 +64,7 @@ Glad to see you here. My name is Daoguang Zan, currently a Ph.D. student in [Ins
 - *2019.09 - 2025.07(expected)*: Ph.D. student, [Institute of Software Chinese Academy of Sciences](http://english.is.cas.cn/). 
 - *2015.09 - 2019.07*: Undergraduate, [Shandong University of Science and Technology](http://www.sdust.edu.cn/). 
 
-# ⛷️ Internships
+# 💻 Internships
 - *2021.09 - now*  
  [DKI Group, Microsoft Research Asia](https://www.msra.cn/), Beijing, China.  
  Mentor: [Bei Chen](https://scholar.google.com/citations?user=Po65v_MAAAAJ&hl=zh-CN), [Jian-Guang Lou](https://scholar.google.com/citations?user=alDxINIAAAAJ&hl=zh-CN)  
