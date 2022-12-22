@@ -17,13 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am working on task-oriented dialogue systems in [Meituan](https://about.meituan.com/en), which is China’s leading shopping platform for locally found consumer products and retail services. Before that, I graduated from [Department of Automation](https://www.au.tsinghua.edu.cn/), Tsinghua University with a bachelor's degree, and from the [Knowledge Computing Lab](https://se.pku.edu.cn/kcl/), Peking University with a Phd's degree, advised by Prof.[Ye Wei (叶蔚)](https://se.pku.edu.cn/kcl/weiye/). 
-My research interest includes event extraction and dialogue systems. I have published several papers at the top conferences including ACL, SIGIR, EMNLP, NAACL, CIKM, etc.
+Glad to see you here. My name is Daoguang Zan, currently a Ph.D. student in [Institute of Software Chinese Academy of Sciences (ISCAS)](http://english.is.cas.cn/). My Ph.D. advisor is [Yongji Wang](https://www.researchgate.net/profile/Yongji-Wang-3). In the past few years, my reserach interest focuses on code generation powered by large language model (LLM).
 
 # 🔥 News
-- *2022.10*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2022! The dataset and baselines are to be released soon.
-- *2022.08*: &nbsp;🎉🎉 Two papers are accepted by Coling 2022! 
-- *2022.05*: &nbsp;🎉🎉 One paper is accepted by SIGIR 2022! 
+- *2022.10*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2022!
+- *2022.06*: &nbsp;🎉🎉 One papers are accepted by IJCAI 2022! 
 
 
 # 📝 Publications 
@@ -84,18 +82,17 @@ Yongcai Wang, Haoran Feng, **Xiangyu Xi**
 *2014 IEEE PES General Meeting| Conference & Exposition* | [paper](https://ieeexplore.ieee.org/abstract/document/6939314/) 
 
 # 🎖 Honors and Awards
-- *2021.11* Meituan 2021 Academic Innovation Outstanding Contribution Award
-- *2020.12* Meituan Platform 2020 Annual Awards
-- *2018.07* SEKE 2018 Best Paper Award (1/135)
+- *2019.06* Outstanding Graduates of Shandong Province
+- *2018.12* National Scholarship in SDUS
+- *2017.07* National Second Prize in [China Undergraduate Mathematical Contest in Modeling (中国大学生数学建模竞赛)](http://www.mcm.edu.cn/)
 
 # 📖 Educations
-- *2014.08 - 2020.07*, PhD, National Engineering Research Center for Software Engineering, Peking University. 
-- *2010.08 - 2014.07*, Undergraduate, Department of Automation, Tsinghua University. 
+- *2019.09 - 2025.07(expected)*, Ph.D. student, [Institute of Software Chinese Academy of Sciences](http://english.is.cas.cn/). 
+- *2015.09 - 2019.07*, Undergraduate, [Shandong University of Science and Technology](http://www.sdust.edu.cn/). 
 
 # 💻 Internships
-- *2019.05 - 2019.08*, [Ant Group, Alibaba](https://www.antgroup.com/en), China.
+- *2020.08 - 202108.*, [NLP Center, Meituan](https://about.meituan.com/en), China.
+- *2021.09 - now.*, [DKI Group, Microsoft Research Asia](https://www.msra.cn/), China.
 
 
-
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=CHAYHsEtJQxEkNo-ZLmdWCTg02RumUz7FL2O_xdsge8&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=zmtGZVaoV3OYgT58goKB72wFxHzXG8QiqULjbLjGAro&cl=ffffff&w=a"></script>
