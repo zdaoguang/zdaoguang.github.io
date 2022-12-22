@@ -65,10 +65,10 @@ Glad to see you here. My name is Daoguang Zan, currently a Ph.D. student in [Ins
 - *2015.09 - 2019.07*: Undergraduate, [Shandong University of Science and Technology](http://www.sdust.edu.cn/). 
 
 # ⛷️ Internships
-1. *2021.09 - now.*  
+- *2021.09 - now*  
  [DKI Group, Microsoft Research Asia](https://www.msra.cn/), Beijing, China.  
  Mentor: [Bei Chen](https://scholar.google.com/citations?user=Po65v_MAAAAJ&hl=zh-CN), [Jian-Guang Lou](https://scholar.google.com/citations?user=alDxINIAAAAJ&hl=zh-CN)  
-1. *2020.08 - 2021.08*  
+- *2020.08 - 2021.08*  
  [NLP Center, Meituan](https://about.meituan.com/en), Beijing, China.  
  Mentor: [Surui Wang](https://scholar.google.com/citations?user=9dxrGHQAAAAJ&hl=zh-CN), [Fuzheng Zhang](https://scholar.google.com/citations?user=8R0hla4AAAAJ&hl=zh-CN&oi=ao), [Wei Wu](https://scholar.google.com/citations?user=YtqXSzMAAAAJ&hl=zh-CN&oi=ao)  
   
