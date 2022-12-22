@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zan Daoguang"
-description              : "Ph.D. in Institute of Software Chinese Academy of Sciences (ISCAS)"
+title                    : "Daoguang Zan"
+description              : "Ph.D. student in Institute of Software Chinese Academy of Sciences"
 repository               : "zdaoguang/zdaoguang.github.io"
 google_scholar_stats_use_cdn : true
 
