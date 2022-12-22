@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xi Xiangyu (习翔宇)"
-description              : "Algorithm Developer in Meituan Group. Graduated from Tsinghua University and Peking University. Focusing on information extraction, task-oriented dialogue systems."
-repository               : "xixy/acad-homepage.github.io"
+title                    : "Zan Daoguang"
+description              : "Ph.D. in Institute of Software Chinese Academy of Sciences (ISCAS)"
+repository               : "zdaoguang/zdaoguang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xi Xiangyu (习翔宇)"
+  name             : "Zan Daoguang"
   avatar           : "images/me.jpeg"
   bio              : "NLPer"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=Pcpn3yIAAAAJ"
-  email            : "xixy10@foxmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=yeQqLtgAAAAJ&hl=zh-CN"
+  email            : "daoguang@iscas.ac.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -44,7 +44,7 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : "https://dblp.org/pid/139/0655.html"
+  dblp             : "https://dblp.org/pid/305/5798.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
@@ -53,7 +53,7 @@ author:
   tumblr           :
   twitter          : 
   vine             :
-  zhihu            : "xi-xiang-yu-20"
+  zhihu            :
   xing             :
   youtube          :
   wikipedia        :
