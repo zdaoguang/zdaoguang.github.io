@@ -64,9 +64,17 @@ Glad to see you here. My name is Daoguang Zan, currently a Ph.D. student in [Ins
 - *2019.09 - 2025.07(expected)*, Ph.D. student, [Institute of Software Chinese Academy of Sciences](http://english.is.cas.cn/). 
 - *2015.09 - 2019.07*, Undergraduate, [Shandong University of Science and Technology](http://www.sdust.edu.cn/). 
 
-# 💻 Internships
-- *2020.08 - 202108.*, [NLP Center, Meituan](https://about.meituan.com/en), China.
-- *2021.09 - now.*, [DKI Group, Microsoft Research Asia](https://www.msra.cn/), China.
+# ⛷️ Internships
+1. *2021.09 - now.*
+ [DKI Group, Microsoft Research Asia](https://www.msra.cn/), Beijing, China.
+ Mentor: [Bei Chen](https://scholar.google.com/citations?user=Po65v_MAAAAJ&hl=zh-CN), [Jian-Guang Lou](https://scholar.google.com/citations?user=alDxINIAAAAJ&hl=zh-CN)
+1. *2020.08 - 2021.08*
+ [NLP Center, Meituan](https://about.meituan.com/en), Beijing, China.
+ Mentor: [Surui Wang](https://scholar.google.com/citations?user=9dxrGHQAAAAJ&hl=zh-CN), [Fuzheng Zhang](https://scholar.google.com/citations?user=8R0hla4AAAAJ&hl=zh-CN&oi=ao), [Wei Wu](https://scholar.google.com/citations?user=YtqXSzMAAAAJ&hl=zh-CN&oi=ao)
+  
+
+# 📞Contact Me
+Please feel free to contact me via my email (daoguang@iscas.ac.cn) or my wechat (872561826) if you are interested in our papers, my experience, or you just have any problem on research which I may help.
 
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=zmtGZVaoV3OYgT58goKB72wFxHzXG8QiqULjbLjGAro&cl=ffffff&w=a"></script>
