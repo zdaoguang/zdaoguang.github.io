@@ -58,7 +58,7 @@ Glad to see you here. My name is Daoguang Zan, currently a Ph.D. student in [Ins
 # 🎖 Honors and Awards
 - *2019.06*: Outstanding Graduates of Shandong Province
 - *2018.12*: National Scholarship
-- *2017.07*: National Second Prize in [China Undergraduate Mathematical Contest in Modeling (中国大学生数学建模竞赛)](http://www.mcm.edu.cn/)
+- *2017.07*: National Second Prize (top 3%) in [China Undergraduate Mathematical Contest in Modeling (中国大学生数学建模竞赛)](http://www.mcm.edu.cn/)
 
 # 📖 Educations
 - *2019.09 - 2025.07(expected)*: Ph.D. student, [Institute of Software Chinese Academy of Sciences](http://english.is.cas.cn/). 
@@ -66,10 +66,10 @@ Glad to see you here. My name is Daoguang Zan, currently a Ph.D. student in [Ins
 
 # 💻 Internships
 - *2021.09 - now*  
- [DKI Group, Microsoft Research Asia](https://www.msra.cn/), Beijing, China.  
+ [**Microsoft Research Asia**, DKI Group](https://www.msra.cn/), Beijing, China.  
  Mentor: [Bei Chen](https://scholar.google.com/citations?user=Po65v_MAAAAJ&hl=zh-CN), [Jian-Guang Lou](https://scholar.google.com/citations?user=alDxINIAAAAJ&hl=zh-CN)  
 - *2020.08 - 2021.08*  
- [NLP Center, Meituan](https://about.meituan.com/en), Beijing, China.  
+ [**Meituan**, NLP Center](https://about.meituan.com/en), Beijing, China.  
  Mentor: [Surui Wang](https://scholar.google.com/citations?user=9dxrGHQAAAAJ&hl=zh-CN), [Fuzheng Zhang](https://scholar.google.com/citations?user=8R0hla4AAAAJ&hl=zh-CN&oi=ao), [Wei Wu](https://scholar.google.com/citations?user=YtqXSzMAAAAJ&hl=zh-CN&oi=ao)  
   
 
