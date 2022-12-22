@@ -20,7 +20,7 @@ redirect_from:
 Glad to see you here. My name is Daoguang Zan, currently a Ph.D. student in [Institute of Software Chinese Academy of Sciences (ISCAS)](http://english.is.cas.cn/). My Ph.D. advisor is [Yongji Wang](https://www.researchgate.net/profile/Yongji-Wang-3). In the past few years, my reserach interest focuses on code generation powered by large language model (LLM).
 
 # 🔥 News
-- *2022.10*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2022 (findings)!
+- *2022.10*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2022!
 - *2022.06*: &nbsp;🎉🎉 One papers are accepted by IJCAI 2022! 
 
 
