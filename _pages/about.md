@@ -20,70 +20,40 @@ redirect_from:
 Glad to see you here. My name is Daoguang Zan, currently a Ph.D. student in [Institute of Software Chinese Academy of Sciences (ISCAS)](http://english.is.cas.cn/). My Ph.D. advisor is [Yongji Wang](https://www.researchgate.net/profile/Yongji-Wang-3). In the past few years, my reserach interest focuses on code generation powered by large language model (LLM).
 
 # 🔥 News
-- *2022.10*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2022!
+- *2022.10*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2022 (findings)!
 - *2022.06*: &nbsp;🎉🎉 One papers are accepted by IJCAI 2022! 
 
 
 # 📝 Publications 
 
-1. MUSIED: A Benchmark for Event Detection from Multi-Source Heterogeneous Informal Texts  
- **Xiangyu Xi**, Jianwei Lv, Shuaipeng Liu, Wei Ye, Fan Yang, Guanglu Wan  
- *EMNLP 2022* | [paper](https://arxiv.org/abs/2211.13896) | [code](https://github.com/myeclipse/MUSIED)  
-1. A Low-Cost, Controllable and Interpretable Task-Oriented Chatbot: With Real-World After-Sale Services as Example  
- **Xiangyu Xi**, Chenxu Lv, Yuncheng Hua, Wei Ye, Chaobo Sun, Shuaipeng Liu, Fan Yang, Guanglu Wan  
- *SIGIR 2022* | [paper](https://dl.acm.org/doi/abs/10.1145/3477495.3536331)  
-1. Label Smoothing for Text Mining  
-Peiyang Liu^, **Xiangyu Xi^** (equal contribution), Wei Ye, Shikun Zhang  
-*Coling 2022* | [paper](https://aclanthology.org/2022.coling-1.193/) 
-1. DESED: Dialogue-based Explanation for Sentence-level Event Detection  
-Yinyi Wei, Shuaipeng Liu, Jianwei Lv, **Xi Xiangyu**, Wei Ye, Tong Mo, Fan Yang and Guanglu Wan  
-*Coling 2022* | [paper](https://aclanthology.org/2022.coling-1.219/)  
-1. Capturing Event Argument Interaction via A Bi-Directional Entity-Level Recurrent Decoder  
-**Xiangyu Xi**, Wei Ye, Shikun Zhang, Quanxiu Wang, Huixing Jiang and Wei Wu  
-*ACL 2021* | [paper](https://aclanthology.org/2021.acl-long.18/) 
-1. Improve Event Detection by Exploiting Label Hierarchy  
-**Xiangyu Xi**, Wei Ye, Tong Zhang, Quanxiu Wang, Shikun Zhang, Huixing Jiang, Wei Wu  
-*ICASSP 2021* | [paper](https://ieeexplore.ieee.org/document/9415002)
-1. Improving Embedding-based Large-scale Retrieval via Label Enhancement    
-Peiyang Liu, Xi Wang, Sen Wang, Wei Ye, **Xiangyu Xi** and Shikun Zhang  
-*EMNLP 2021* | [paper](https://aclanthology.org/2021.findings-emnlp.13.pdf)
-1. Distilling Knowledge from BERT into Simple Fully Connected Neural Networks for Efficient Vertical Retrieval  
-Peiyang Liu, Xi Wang, Sen Wang, Wei Ye, **Xiangyu Xi** and Shikun Zhang  
-*CIKM 2021* | [paper](https://dl.acm.org/doi/abs/10.1145/3459637.3481909)
-1. Leveraging Human Prior Knowledge to Learn Sense Representations   
-Tong Zhang, Wei Ye, **Xiangyu Xi**, Long Zhang, Shikun Zhang, Wen Zhao  
-*ECAI 2020* | [paper](https://ecai2020.eu/papers/603_paper.pdf) 
-1. Graph Enhanced Dual Attention Network for Document-Level Relation Extraction   
-Bo Li, Wei Ye, Zhonghao Sheng, Rui Xie, **Xiangyu Xi** and Shikun Zhang  
-*Coling 2020* | [paper](https://aclanthology.org/2020.coling-main.136/) 
-1. A Hybrid Character Representation for Chinese Event Detection    
-**Xiangyu Xi**, Tong Zhang, Wei Ye, Jinglei Zhang, Rui Xie and Shikun Zhang  
-*IJCNN 2019* | [paper](https://ieeexplore.ieee.org/document/8851786)  
-1. Not All Synonyms Are Created Equal: Incorporating Similarity of Synonyms to Enhance Word Embeddings    
-Peiyang Liu, Wei Ye, **Xiangyu Xi**, Tong Wang and Shikun Zhang  
-*IJCNN 2019* | [paper](https://ieeexplore.ieee.org/document/9207311)
-1. Method and System for Detecting Anomalous User Behaviors: An Ensemble Approach      
-**Xiangyu Xi**, Tong Zhang, Wei Ye, Zhao Wen, Shikun Zhang, Dongdong Du and Qing Gao  
-*SEKE 2018* | [paper](https://ksiresearch.org/seke/seke18paper/seke18paper_36.pdf) | <font color='red'>Best Paper Award</font>
-1. An Ensemble Approach for Detecting Anomalous User Behaviors   
-**Xiangyu Xi**, Tong Zhang, Wei Ye, Zhao Wen, Shikun Zhang, Dongdong Du and Qing Gao  
-*IJSEKE Vol. 28, No. 11n12* | [paper](https://www.worldscientific.com/doi/10.1142/S0218194018400211) 
-1. Dynamic parameters cellular automaton model for passengers in subway  
-Yichen Zheng, **Xiangyu Xi**, Yifan Zhuang, and Yi Zhang  
-*Tsinghua Science and Technology* | [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7349931)
-1. Null Pointer Dereference Detection Based on Value Dependences Analysis  
-MA Sen, ZHAO Wen, **XI Xiang-yu**, WANG Dong-wei  
-*Acta Electronica Sinica, 2015* | [paper](https://www.ejournal.org.cn/CN/abstract/abstract8921.shtml) 
-1. Monitoring and autonomous control of Beijing Subway HVAC system for energy sustainability  
-Yongcai Wang, Haoran Feng, **Xiangyu Xi**  
-*Energy for sustainable development, 2017* | [paper](https://pendidikankimia.walisongo.ac.id/wp-content/uploads/2018/09/1-vol-39-august-2017.pdf)  
-1. Sense, model and identify the load signatures of HVAC systems in metro stations  
-Yongcai Wang, Haoran Feng, **Xiangyu Xi**  
-*2014 IEEE PES General Meeting| Conference & Exposition* | [paper](https://ieeexplore.ieee.org/abstract/document/6939314/) 
+1. 动态迁移实体块信息的跨领域中文实体识别模型  
+ 吴炳潮, 邓成龙, 关贝, 陈晓霖,  **昝道广**, 常志军, 肖尊严, 曲大成, 王永吉
+ *软件学报 2021* | [paper](https://www.jos.org.cn/jos/article/pdf/6305)
+1. Large-Scale Relation Learning for Question Answering over Knowledge Bases with Pre-trained Language Models
+Yuanmeng Yan, Rumei Li, Sirui Wang, Hongzhi Zhang, **Daoguang Zan**, Fuzheng Zhang, Wei Wu, Weiran Xu.
+*EMNLP 2021* | [paper](https://aclanthology.org/2021.emnlp-main.296.pdf) | [code](https://github.com/yym6472/KBQARelationLearning)
+1. S^2QL: Retrieval Augmented Question Answering over Knowledge Graph
+**Daoguang Zan**, Sirui Wang, Hongzhi Zhang, Yuanmeng Yan, Wei Wu, Bei Guan, Yongji Wang
+*PAKDD 2022* | [paper](https://link.springer.com/chapter/10.1007/978-3-031-05981-0_18)
+1. Complex Question Answering over Incomplete Knowledge Graph as N-ary Link Prediction
+**Daoguang Zan**, Sirui Wang, Hongzhi Zhang, Kun Zhou, Wei Wu, Wayne Xin Zhao, Bingchao Wu, Bei Guan, Yongji Wang
+*IJCNN 2022* | [paper](https://ieeexplore.ieee.org/abstract/document/9892700)
+1. CERT: Continual Pre-Training on Sketches for Library-Oriented Code Generation
+**Daoguang Zan**, Bei Chen, Dejian Yang, Zeqi Lin, Minsu Kim, Bei Guan, Yongji Wang, Weizhu Chen, Jian-Guang Lou
+*IJCAI 2022* | [paper](https://arxiv.org/pdf/2206.06888.pdf) | [code](https://github.com/microsoft/PyCodeGPT/tree/main/cert)
+1. CodeT: Code generation with generated tests
+Bei Chen, Fengji Zhang, Anh Nguyen, **Daoguang Zan**, Zeqi Lin, Jian-Guang Lou, Weizhu Chen
+*Arxiv 2022* | [paper](https://arxiv.org/pdf/2207.10397.pdf) | [code](https://github.com/microsoft/CodeT)
+1. When Language Model Meets Private Library
+**Daoguang Zan**, Bei Chen, Zeqi Lin, Bei Guan, Yongji Wang, Jian-Guang Lou
+*EMNLP 2022* | [paper](https://arxiv.org/pdf/2210.17236.pdf) | [code](https://github.com/microsoft/PyCodeGPT/tree/main/apicoder)
+1. When Neural Model Meets NL2Code: A Survey
+**Daoguang Zan**, Bei Chen, Fengji Zhang, Dianjie Lu, Bingchao Wu, Bei Guan, Yongji Wang, Jian-Guang Lou
+*Arxiv 2022* | [paper](https://arxiv.org/pdf/2212.09420.pdf) | [website](https://nl2code.github.io)
 
 # 🎖 Honors and Awards
 - *2019.06* Outstanding Graduates of Shandong Province
-- *2018.12* National Scholarship in SDUS
+- *2018.12* National Scholarship
 - *2017.07* National Second Prize in [China Undergraduate Mathematical Contest in Modeling (中国大学生数学建模竞赛)](http://www.mcm.edu.cn/)
 
 # 📖 Educations
