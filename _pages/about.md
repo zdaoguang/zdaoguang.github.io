@@ -51,7 +51,7 @@ Glad to see you here. My name is Daoguang Zan, currently a Ph.D. student in [Ins
  **Daoguang Zan**, Bei Chen, Fengji Zhang, Dianjie Lu, Bingchao Wu, Bei Guan, Yongji Wang, Jian-Guang Lou  
  *Arxiv 2022* | [paper](https://arxiv.org/pdf/2212.09420.pdf) | [website](https://nl2code.github.io)  
  
-# 💖Services
+# 💖 Services
 - **2023**: AAAI, EACL
 - **2022**: EMNLP
 
@@ -73,7 +73,7 @@ Glad to see you here. My name is Daoguang Zan, currently a Ph.D. student in [Ins
  Mentor: [Surui Wang](https://scholar.google.com/citations?user=9dxrGHQAAAAJ&hl=zh-CN), [Fuzheng Zhang](https://scholar.google.com/citations?user=8R0hla4AAAAJ&hl=zh-CN&oi=ao), [Wei Wu](https://scholar.google.com/citations?user=YtqXSzMAAAAJ&hl=zh-CN&oi=ao)  
   
 
-# 📞Contact Me
+# 📞 Contact Me
 Please feel free to contact me via my email (daoguang@iscas.ac.cn) or my wechat (872561826) if you are interested in our papers, my experience, or you just have any problem on research which I may help.
 
 
