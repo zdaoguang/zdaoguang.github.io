@@ -71,7 +71,7 @@ Glad to see you here. My name is Daoguang Zan, currently a Ph.D. student in [Ins
 - *2017.07*: National Second Prize (top 3%) in [China Undergraduate Mathematical Contest in Modeling](http://www.mcm.edu.cn/)
 
 # 📖 Educations
-- *2019.09 - 2025.07 (expected)*: Ph.D. student, [Institute of Software Chinese Academy of Sciences](http://english.is.cas.cn/). 
+- *2019.09 - 2025.07 (expected)*: Ph.D. student, [Institute of Software Chinese Academy of Sciences](http://www.iscas.ac.cn/). 
 - *2015.09 - 2019.07*: Undergraduate, [Shandong University of Science and Technology](http://www.sdust.edu.cn/). 
 
 # 💻 Internships
