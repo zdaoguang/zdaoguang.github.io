@@ -24,7 +24,7 @@ Glad to see you here. My name is Daoguang Zan, currently a Ph.D. student in [Ins
 - *2023.01*: &nbsp;🎉🎉 Two papers are submitted to ACL 2023.
 - *2023.01*: &nbsp;🎉🎉 One co-author paper is accepted by ICLR 2023!
 - *2022.10*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2022!
-- *2022.06*: &nbsp;🎉🎉 One paper are accepted by IJCAI 2022! This is my first top-tier conference, especially grateful to my mentors [Bei Chen@Micorsoft](https://scholar.google.com/citations?user=Po65v_MAAAAJ&hl=zh-CN) and [Jian-Guang Lou@Micorsoft](https://scholar.google.com/citations?user=alDxINIAAAAJ&hl=zh-CN).
+- *2022.06*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2022!
 
 
 # 📝 Publications 
