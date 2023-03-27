@@ -20,6 +20,7 @@ redirect_from:
 Glad to see you here. My name is Daoguang Zan, currently a Ph.D. student in [Institute of Software Chinese Academy of Sciences (ISCAS)](http://english.is.cas.cn/). My Ph.D. advisor is [Yongji Wang](https://www.researchgate.net/profile/Yongji-Wang-3). In the past few years, my reserach interest focuses on code generation powered by large language model (LLM).
 
 # 🔥 News
+- *2023.03*: &nbsp;🎉🎉 One co-author papers is accepted by ICME 2023.
 - *2023.01*: &nbsp;🎉🎉 Two papers are submitted to ACL 2023.
 - *2023.01*: &nbsp;🎉🎉 One co-author paper is accepted by ICLR 2023!
 - *2022.10*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2022!
@@ -52,9 +53,15 @@ Glad to see you here. My name is Daoguang Zan, currently a Ph.D. student in [Ins
 1. When Neural Model Meets NL2Code: A Survey  
  **Daoguang Zan**, Bei Chen, Fengji Zhang, Dianjie Lu, Bingchao Wu, Bei Guan, Yongji Wang, Jian-Guang Lou  
  *Arxiv 2022* | [paper](https://arxiv.org/pdf/2212.09420.pdf) | [website](https://nl2code.github.io)  
+1. Hierarchical and Contrastive Representation Learning for Knowledge-aware Recommendation  
+ Bingchao Wu, Yangyuxuan Kang, **Daoguang Zan**, Bei Guan, Yongji Wang  
+ *ICME 2022*
+1. RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation  
+ Fengji Zhang, Bei Chen, Yue Zhang, Jin Liu, **Daoguang Zan**, Yi Mao, Jian-Guang Lou, Weizhu Chen  
+ *Arxiv 2023* | [paper](https://arxiv.org/pdf/2303.12570.pdf)
  
 # 💖 Services
-- **2023**: AAAI, EACL
+- **2023**: AAAI, EACL, IJCAI, ACL
 - **2022**: EMNLP
 
 # 🎖 Honors and Awards
@@ -83,7 +90,7 @@ Glad to see you here. My name is Daoguang Zan, currently a Ph.D. student in [Ins
 Please feel free to contact me via my email (daoguang@iscas.ac.cn) or my wechat (872561826) if you are interested in our papers, my experience, or you just have any problem on research which I may help.
 
 ---
-*Last updated on Jan. 2023.*
+*Last updated on 2023/03.*
 
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=zmtGZVaoV3OYgT58goKB72wFxHzXG8QiqULjbLjGAro&cl=ffffff&w=a"></script>
