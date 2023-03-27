@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Glad to see you here. My name is Daoguang Zan, currently a Ph.D. student in [Institute of Software Chinese Academy of Sciences (ISCAS)](http://english.is.cas.cn/). My Ph.D. advisor is [Yongji Wang](https://www.researchgate.net/profile/Yongji-Wang-3). In the past few years, my reserach interest focuses on code generation powered by large language model (LLM).
+Glad to see you here. My name is Daoguang Zan, currently a Ph.D. student in [Institute of Software Chinese Academy of Sciences (ISCAS)](http://www.iscas.ac.cn/). My Ph.D. advisor is [Yongji Wang](https://www.researchgate.net/profile/Yongji-Wang-3). In the past few years, my reserach interest focuses on code generation powered by large language model (LLM).
 
 # 🔥 News
 - *2023.03*: &nbsp;🎉🎉 One co-author papers is accepted by ICME 2023!
