@@ -20,7 +20,7 @@ redirect_from:
 Glad to see you here. My name is Daoguang Zan, currently a Ph.D. student in [Institute of Software Chinese Academy of Sciences (ISCAS)](http://english.is.cas.cn/). My Ph.D. advisor is [Yongji Wang](https://www.researchgate.net/profile/Yongji-Wang-3). In the past few years, my reserach interest focuses on code generation powered by large language model (LLM).
 
 # 🔥 News
-- *2023.03*: &nbsp;🎉🎉 One co-author papers is accepted by ICME 2023.
+- *2023.03*: &nbsp;🎉🎉 One co-author papers is accepted by ICME 2023!
 - *2023.01*: &nbsp;🎉🎉 Two papers are submitted to ACL 2023.
 - *2023.01*: &nbsp;🎉🎉 One co-author paper is accepted by ICLR 2023!
 - *2022.10*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2022!
@@ -46,7 +46,7 @@ Glad to see you here. My name is Daoguang Zan, currently a Ph.D. student in [Ins
  *IJCAI 2022* | [paper](https://arxiv.org/pdf/2206.06888.pdf) | [code](https://github.com/microsoft/PyCodeGPT/tree/main/cert)  
 1. CodeT: Code generation with generated tests  
  Bei Chen, Fengji Zhang, Anh Nguyen, **Daoguang Zan**, Zeqi Lin, Jian-Guang Lou, Weizhu Chen  
- *ICLR 2023* | [paper](https://arxiv.org/pdf/2207.10397.pdf) | [code](https://github.com/microsoft/CodeT) | <font color='red'>Distinguished Contribution Award by the Microsoft MLADS</font>
+ *ICLR 2023* | [paper](https://arxiv.org/pdf/2207.10397.pdf) | [code](https://github.com/microsoft/CodeT) | <font color='red'>Distinguished Contribution Award by the Microsoft MLADS (top 1%)</font>
 1. When Language Model Meets Private Library  
  **Daoguang Zan**, Bei Chen, Zeqi Lin, Bei Guan, Yongji Wang, Jian-Guang Lou  
  *EMNLP 2022* | [paper](https://arxiv.org/pdf/2210.17236.pdf) | [code](https://github.com/microsoft/PyCodeGPT/tree/main/apicoder)  
