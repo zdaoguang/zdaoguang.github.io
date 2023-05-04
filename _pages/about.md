@@ -53,7 +53,7 @@ Glad to see you here. My name is Daoguang Zan, currently a Ph.D. student in [Ins
 1. Hierarchical and Contrastive Representation Learning for Knowledge-aware Recommendation  
  Bingchao Wu, Yangyuxuan Kang, **Daoguang Zan**, Bei Guan, Yongji Wang  
  *ICME 2022*
-1. Large Language Models Meet \nlcode: A Survey
+1. Large Language Models Meet NL2Code: A Survey  
  **Daoguang Zan**, Bei Chen, Fengji Zhang, Dianjie Lu, Bingchao Wu, Bei Guan, Yongji Wang, Jian-Guang Lou  
  *ACL 2023* | [paper](https://arxiv.org/pdf/2212.09420.pdf) | [website](https://nl2code.github.io)  
 1. RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation  
