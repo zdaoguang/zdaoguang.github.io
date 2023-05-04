@@ -52,7 +52,7 @@ Glad to see you here. My name is Daoguang Zan, currently a Ph.D. student in [Ins
  *EMNLP 2022* | [paper](https://arxiv.org/pdf/2210.17236.pdf) | [code](https://github.com/microsoft/PyCodeGPT/tree/main/apicoder)  
 1. Hierarchical and Contrastive Representation Learning for Knowledge-aware Recommendation  
  Bingchao Wu, Yangyuxuan Kang, **Daoguang Zan**, Bei Guan, Yongji Wang  
- *ICME 2022*
+ *ICME 2022* | [paper](https://arxiv.org/pdf/2304.07506.pdf)
 1. Large Language Models Meet NL2Code: A Survey  
  **Daoguang Zan**, Bei Chen, Fengji Zhang, Dianjie Lu, Bingchao Wu, Bei Guan, Yongji Wang, Jian-Guang Lou  
  *ACL 2023* | [paper](https://arxiv.org/pdf/2212.09420.pdf) | [website](https://nl2code.github.io)  
