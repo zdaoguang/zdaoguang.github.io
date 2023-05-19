@@ -20,6 +20,7 @@ redirect_from:
 Glad to see you here. My name is Daoguang Zan, currently a Ph.D. student in [Institute of Software Chinese Academy of Sciences (ISCAS)](http://www.iscas.ac.cn/). My Ph.D. advisor is [Yongji Wang](https://www.researchgate.net/profile/Yongji-Wang-3). In the past few years, my reserach interest focuses on code generation powered by large language model (LLM).
 
 # 🔥 News
+- *2023.05*: &nbsp; One expanded paper is submited to Knowledge Based Systems(KBS).
 - *2023.05*: &nbsp;🎉🎉 One paper is accepted to ACL 2023!
 - *2023.03*: &nbsp;🎉🎉 One co-author papers is accepted by ICME 2023!
 - *2023.01*: &nbsp;🎉🎉 One co-author paper is accepted by ICLR 2023!
@@ -77,7 +78,7 @@ Glad to see you here. My name is Daoguang Zan, currently a Ph.D. student in [Ins
 # 💻 Internships
 - *2023.02 - now*  
  [**SenseTime**, NLP Group](https://www.sensetime.com/en/), Beijing, China.  
- Mentor: [Junzhi Cao](https://scholar.google.com/citations?user=1rSXKxkAAAAJ&hl=zh-CN&oi=ao)  
+ Mentor: [Junzhi Cao](https://scholar.google.com/citations?user=1rSXKxkAAAAJ&hl=zh-CN&oi=ao), [Liwei Wang](https://scholar.google.com/citations?hl=zh-CN&user=qnbdnZEAAAAJ)  
 - *2021.09 - 2023.01*  
  [**Microsoft Research Asia**, DKI Group](https://www.msra.cn/), Beijing, China.  
  Mentor: [Bei Chen](https://scholar.google.com/citations?user=Po65v_MAAAAJ&hl=zh-CN), [Jian-Guang Lou](https://scholar.google.com/citations?user=alDxINIAAAAJ&hl=zh-CN)  
