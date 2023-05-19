@@ -20,7 +20,7 @@ redirect_from:
 Glad to see you here. My name is Daoguang Zan, currently a Ph.D. student in [Institute of Software Chinese Academy of Sciences (ISCAS)](http://www.iscas.ac.cn/). My Ph.D. advisor is [Yongji Wang](https://www.researchgate.net/profile/Yongji-Wang-3). In the past few years, my reserach interest focuses on code generation powered by large language model (LLM).
 
 # 🔥 News
-- *2023.05*: &nbsp; One expanded paper is submited to Knowledge Based Systems(KBS).
+- *2023.05*: &nbsp; Three papers are ready to be submitted to KBS, NeurIPS 2023, and EMNLP 2023 respectively.
 - *2023.05*: &nbsp;🎉🎉 One paper is accepted to ACL 2023!
 - *2023.03*: &nbsp;🎉🎉 One co-author papers is accepted by ICME 2023!
 - *2023.01*: &nbsp;🎉🎉 One co-author paper is accepted by ICLR 2023!
