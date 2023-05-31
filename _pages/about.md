@@ -76,7 +76,10 @@ Glad to see you here. My name is Daoguang Zan, currently a Ph.D. student in [Ins
 - *2015.09 - 2019.07*: Undergraduate, [Shandong University of Science and Technology](http://www.sdust.edu.cn/). 
 
 # 💻 Internships
-- *2023.02 - now*  
+- *2023.06 - now*  
+ [**Huawei**, Huawei Cloud Group], Beijing, China.  
+ Mentor: Bo Shen, Qianxiang Wang  
+- *2023.02 - 2023.05*  
  [**SenseTime**, NLP Group](https://www.sensetime.com/en/), Beijing, China.  
  Mentor: [Junzhi Cao](https://scholar.google.com/citations?user=1rSXKxkAAAAJ&hl=zh-CN&oi=ao), [Liwei Wang](https://scholar.google.com/citations?hl=zh-CN&user=qnbdnZEAAAAJ)  
 - *2021.09 - 2023.01*  
