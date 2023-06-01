@@ -77,7 +77,7 @@ Glad to see you here. My name is Daoguang Zan, currently a Ph.D. student in [Ins
 
 # 💻 Internships
 - *2023.06 - now*  
- [**Huawei**, Huawei Cloud Group], Beijing, China.  
+ **Huawei**, Huawei Cloud Group, Beijing, China.  
  Mentor: Bo Shen, Qianxiang Wang  
 - *2023.02 - 2023.05*  
  [**SenseTime**, NLP Group](https://www.sensetime.com/en/), Beijing, China.  
